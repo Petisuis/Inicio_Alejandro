@@ -14,6 +14,7 @@ public class Hola {
 		
 		for(int i=0; i <rezos; i++) {
 		System.out.println("Mengueche");
+		System.out.println("Hola q ase");
 		}
 	}
 
